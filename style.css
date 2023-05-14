@@ -1,0 +1,31 @@
+body {
+    background-color: green;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(255, 0, 0);
+    border-radius: 4px;
+    color: nigga;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    margin-top: 25%;
+}
+
+.btn {
+    border-color: greenyellow;
+    background-color: green;
+    color: aqua;
+}
+
+.form {
+    background-color: greenyellow;
+}
+
+form {
+    background-color: darkolivegreen;
+}
